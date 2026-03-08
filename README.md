@@ -23,7 +23,7 @@ A simple HTTP API to convert between 2 currencies (AUD, USD) making use of a pub
 
 **Step 1:** Clone the repository and navigate to the project directory.
 
-**Step 2:** Add your API key to `appsettings.Development.json`:
+**Step 2:** Add your API key (from the link in requirements) to `appsettings.Development.json`:
 
 ```json
 "ExchangeRate": {
